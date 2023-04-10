@@ -1,0 +1,1207 @@
+@media (max-width:1750px) {
+    .details {
+        width: 65%;
+    }
+
+    .container-1690 {
+        max-width: 1450px;
+    }
+
+    .main-design {
+        padding-top: 55px;
+    }
+
+    .img-content {
+        margin: 230px 0 0;
+    }
+
+    .sec2-content p {
+        max-width: 90%;
+    }
+
+    .sec2-content {
+        padding: 224px 0;
+    }
+
+    .mission-heading {
+        padding: 160px 0px 80px;
+    }
+
+    .container-1405 {
+        max-width: 1300px;
+    }
+
+    .bg-img {
+        background-size: 100%;
+    }
+
+    .contact-us-ul {
+        max-width: 650px;
+    }
+
+    .contact-us-ul {
+        max-width: 650px;
+    }
+
+    .contact-us {
+        padding: 210px 0 120px;
+    }
+
+    .contact-detail {
+        padding-bottom: 120px;
+    }
+
+    .contact-row {
+        padding-bottom: 80px;
+    }
+
+    .fa-70 {
+        font-size: 67px !important;
+    }
+
+    .green-line:before {
+        top: -100px;
+        left: -50px;
+    }
+
+    .blue-line:after {
+        right: -50px;
+    }
+}
+
+@media (max-width:1599px) {
+    .container-1690 {
+        max-width: 1300px;
+    }
+
+    .details {
+        width: 62%;
+    }
+
+    .details i {
+        margin-right: 10px;
+        padding: 4px;
+    }
+
+    .details a {
+        font-size: 15px;
+    }
+
+    .my-btn {
+        width: 150px;
+    }
+
+    .img-content {
+        margin: 150px 0 0;
+    }
+
+    .fa-55 {
+        font-size: 52px !important;
+    }
+
+    .fa-35 {
+        font-size: 32px !important;
+    }
+
+    .fa-70 {
+        font-size: 60px !important;
+    }
+
+    .fa-20 {
+        font-size: 16px !important;
+    }
+
+    .sec2-content {
+        padding-bottom: 105px;
+    }
+
+    .mission-heading {
+        padding: 130px 0px 80px;
+    }
+
+    .container-1405 {
+        max-width: 1170px;
+    }
+
+    .my-card .my-btn {
+        height: 30px;
+        width: 130px;
+        font-size: 16px;
+    }
+
+    .my-inner p {
+        margin: 15px 0 !important;
+    }
+
+    .fa-14 {
+        font-size: 13px !important;
+    }
+
+    .f-content input,
+    .f-content .form-control {
+        padding: 15px 25px;
+    }
+
+    .fa-25 {
+        font-size: 23px !important;
+    }
+
+    .contact-item>span {
+        width: 35px;
+        height: 35px;
+    }
+
+    .contact-item .green-box {
+        width: 14px;
+        height: 14px;
+    }
+
+    .fa-15 {
+        font-size: 13px !important;
+    }
+
+    .lh-20 {
+        line-height: 19px;
+    }
+
+    .lh-37 {
+        line-height: 35px;
+    }
+
+    .lh-80 {
+        line-height: 75px;
+    }
+
+    .lh-30 {
+        line-height: 25px;
+    }
+
+    .contact-detail {
+        padding-bottom: 120px;
+    }
+
+    .contact-row {
+        padding-bottom: 80px;
+    }
+
+    .contact-us {
+        padding: 200px 0 130px;
+    }
+
+    .sec5 {
+        padding: 130px 0 240px;
+    }
+
+    .fa-18 {
+        font-size: 15px !important;
+    }
+
+    .get-touch {
+        width: 280px;
+        height: 280px;
+        padding-top: 75px;
+    }
+
+    .fa-63 {
+        font-size: 55px !important;
+    }
+
+    .green-line:before {
+        top: -120px;
+        left: -70px;
+    }
+
+    .blue-line:after {
+        right: -70px;
+    }
+
+    .sec3 {
+        padding-bottom: 140px;
+    }
+}
+
+@media (max-width:1439px) {
+    .container-1690 {
+        max-width: 1060px;
+    }
+
+    .my-head .navbar-brand {
+        width: 170px;
+    }
+
+    .my-btn {
+        width: 120px;
+        height: 35px;
+        font-size: 15px;
+    }
+
+    .details i {
+        margin-right: 5px;
+        padding: 3px;
+    }
+
+    .details a {
+        font-size: 13px;
+    }
+
+    .details {
+        width: 65%;
+        gap: 30px;
+    }
+
+    .fa-55 {
+        font-size: 45px !important;
+    }
+
+    .fa-35 {
+        font-size: 28px !important;
+    }
+
+    .img-content {
+        margin: 110px 0 0;
+    }
+
+    .btn-para {
+        margin: 50px 0 50px;
+    }
+
+    .main-design {
+        padding-top: 80px;
+    }
+
+    .sec1 .bg-blue {
+        top: 100px;
+    }
+
+    .fa-70 {
+        font-size: 50px !important;
+    }
+
+    .fa-20 {
+        font-size: 14px !important;
+    }
+
+    .sec2-content p {
+        max-width: 90%;
+    }
+
+    .lh-80 {
+        line-height: 60px;
+    }
+
+    .lh-30 {
+        line-height: 23px;
+    }
+
+    .sec2-content {
+        padding: 164px 0;
+    }
+
+    .sec3 {
+        padding-bottom: 130px;
+    }
+
+    .container-1405 {
+        max-width: 1000px;
+    }
+
+    .green-line:before,
+    .blue-line:after {
+        left: -60px;
+        top: -170px;
+        width: 80px;
+    }
+
+    .blue-line:after {
+        right: -60px;
+        left: auto;
+    }
+
+    .my-inner h5 {
+        margin-bottom: 0;
+    }
+
+    .my-card {
+        padding: 40px 30px;
+    }
+
+    .mission-heading {
+        padding: 80px 0px 50px;
+    }
+
+    .form-sec {
+        padding: 40px 0;
+    }
+
+    .sec5 {
+        padding: 100px 0 200px;
+    }
+
+    .story {
+        height: 300px;
+    }
+
+    .fa-25 {
+        font-size: 19px !important;
+    }
+
+    .story-flex a {
+        font-size: 15px;
+    }
+
+    .story-flex {
+        padding: 20px 30px;
+    }
+
+    footer {
+        padding-top: 120px;
+    }
+
+    .get-touch {
+        width: 190px;
+        height: 190px;
+        padding-top: 45px;
+        line-height: 45px;
+        margin: 0 auto;
+    }
+
+    .fa-63 {
+        font-size: 47px !important;
+    }
+
+    .contact-us {
+        padding: 100px 0 70px;
+    }
+
+    .contact-row {
+        padding-bottom: 50px;
+    }
+
+    .contact-item>span {
+        width: 28px;
+        height: 28px;
+        margin-right: 14px;
+    }
+
+    .contact-item .green-box {
+        width: 10px;
+        height: 10px;
+    }
+
+    .contact-detail {
+        padding-bottom: 100px;
+    }
+}
+
+@media (max-width:1199px) {
+    .container-1690 {
+        max-width: 900px;
+    }
+
+    .my-head .navbar-brand {
+        width: 150px;
+    }
+
+    .my-btn {
+        width: 100px;
+        height: 30px;
+        font-size: 13px;
+    }
+
+    .details a {
+        font-size: 11px;
+    }
+
+    .details i {
+        margin-right: 5px;
+        padding: 2px;
+    }
+
+    .details {
+        width: 62%;
+        gap: 25px;
+    }
+
+    .fa-55 {
+        font-size: 35px !important;
+    }
+
+    .fa-35 {
+        font-size: 20px !important;
+    }
+
+    .main-design {
+        padding-top: 70px;
+    }
+
+    .fa-70 {
+        font-size: 43px !important;
+    }
+
+    .lh-80 {
+        line-height: 50px;
+    }
+
+    .fa-20 {
+        font-size: 12px !important;
+    }
+
+    .sec2-content {
+        padding: 127px 0;
+    }
+
+    .mission-heading {
+        max-width: 570px;
+    }
+
+    .my-card {
+        padding: 20px 20px;
+    }
+
+    .my-row>* {
+        margin-bottom: 15px;
+        padding: 0 8px;
+    }
+
+    .container-1405 {
+        max-width: 850px;
+    }
+
+    .my-inner p {
+        margin: 10px 0 !important;
+    }
+
+    .lh-37 {
+        line-height: 25px;
+    }
+
+    .fa-14 {
+        font-size: 11px !important;
+    }
+
+    .green-line:before,
+    .blue-line:after {
+        width: 55px;
+        left: -30px;
+        top: -110px;
+    }
+
+    .blue-line:after {
+        right: -30px;
+        top: -110px;
+        left: auto;
+    }
+
+    .form-sec {
+        padding: 30px 0;
+    }
+
+    .f-heading {
+        padding: 30px 0;
+    }
+
+    .f-content input,
+    .f-content .form-control {
+        padding: 9px 11px;
+    }
+
+    .blue-before:before {
+        width: 20px;
+    }
+
+    .green-before:before {
+        width: 20px;
+    }
+
+    .sec5 {
+        padding: 70px 0 150px;
+    }
+
+    .my-card .my-btn {
+        height: 30px;
+        width: 100px;
+        font-size: 14px;
+    }
+
+    .fa-18 {
+        font-size: 13px !important;
+    }
+
+    .fa-63 {
+        font-size: 35px !important;
+    }
+
+    .get-touch {
+        width: 166px;
+        height: 166px;
+        padding-top: 45px;
+        line-height: 35px;
+        margin: 0 190px;
+    }
+
+    footer {
+        padding-top: 100px;
+    }
+
+    .contact-us {
+        padding: 80px 0 60px;
+    }
+
+    .fa-25 {
+        font-size: 17px !important;
+    }
+
+    .contact-item>span {
+        width: 25px;
+        height: 25px;
+        margin-right: 10px;
+    }
+
+    .contact-detail {
+        padding-bottom: 80px;
+    }
+
+    .social-icons a {
+        margin-right: 5px;
+    }
+
+    .fa-15 {
+        font-size: 12px !important;
+    }
+}
+
+@media (max-width:991px) {
+    .container-1690 {
+        max-width: 680px;
+    }
+
+    .details {
+        display: none;
+    }
+
+    .fa-55 {
+        font-size: 28px !important;
+    }
+
+    .fa-35 {
+        font-size: 17px !important;
+    }
+
+    .img-content {
+        margin: 80px 0 0;
+    }
+
+    .btn-para {
+        margin: 40px 0 30px;
+    }
+
+    .my-menubar {
+        padding: 50px 0px;
+    }
+
+    .main-design {
+        padding-top: 50px;
+    }
+
+    .hr-styling {
+        height: 5px !important;
+        margin: 15px 0;
+    }
+
+    .fa-70 {
+        font-size: 31px !important;
+    }
+
+    .lh-80 {
+        line-height: 38px;
+    }
+
+    .fa-20 {
+        font-size: 10px !important;
+    }
+
+    .sec2-content p {
+        max-width: 95%;
+    }
+
+    .sec2-content {
+        padding: 125px 0 52px;
+    }
+
+    .mission-heading {
+        max-width: 410px;
+        padding: 60px 0 40px;
+    }
+
+    .lh-30 {
+        line-height: 15px;
+    }
+
+    .container-1405 {
+        max-width: 610px;
+    }
+
+    .form-sec {
+        padding: 10px 0;
+    }
+
+    .f-content input,
+    .f-content .form-control {
+        padding: 5px 8px;
+    }
+
+    .my-card .my-btn {
+        height: 26px;
+        width: 90px;
+        font-size: 11px;
+    }
+
+    .f-content input::placeholder,
+    .f-content .form-control::placeholder {
+        font-size: 11px;
+    }
+
+    .green-before:before,
+    .blue-before:before {
+        width: 16px;
+    }
+
+    .sec5 {
+        padding: 40px 0 110px;
+    }
+
+    .img-story button {
+        width: 50px;
+        height: 50px;
+    }
+
+    .img-story i {
+        font-size: 15px;
+    }
+
+    .story-flex {
+        padding: 10px;
+    }
+
+    .story-flex a {
+        font-size: 11px;
+    }
+
+    .fa-25 {
+        font-size: 12px !important;
+    }
+
+    .story {
+        height: 150px;
+    }
+
+    .success-heading {
+        margin-bottom: 40px;
+    }
+
+    .fa-18 {
+        font-size: 11px !important;
+    }
+
+    .get-touch {
+        width: 140px;
+        height: 140px;
+        padding-top: 39px;
+        line-height: 30px;
+        margin: 0 120px;
+    }
+
+    .fa-63 {
+        font-size: 30px !important;
+    }
+
+    .contact-us {
+        padding: 40px 0 30px;
+    }
+
+    .contact-detail {
+        padding-bottom: 50px;
+    }
+
+    .contact-item>span {
+        width: 20px;
+        height: 20px;
+        margin-right: 7px;
+    }
+
+    .contact-item .green-box {
+        width: 8px;
+        height: 8px;
+    }
+
+    .fa-15 {
+        font-size: 10px !important;
+    }
+
+    .social-icons a {
+        margin-right: 0;
+    }
+
+    .social-icons i {
+        font-size: 11px;
+    }
+
+    .contact-row {
+        padding-bottom: 30px;
+    }
+
+    .green-line:before,
+    .blue-line:after {
+        display: none;
+    }
+
+    .sec3 {
+        padding-bottom: 60px;
+    }
+}
+
+@media (max-width:767px) {
+    .container-1690 {
+        max-width: 90%;
+    }
+
+    .img-content {
+        margin: 50px 0 0;
+    }
+
+    .fa-55 {
+        font-size: 21px !important;
+    }
+
+    .hr-styling {
+        height: 4px !important;
+        margin: 10px 0;
+    }
+
+    .green-before:before,
+    .blue-before:before {
+        width: 10px;
+    }
+
+    .my-head .navbar-brand {
+        width: 130px;
+    }
+
+    .main-design {
+        padding-top: 45px;
+    }
+
+    .my-menubar {
+        padding: 30px 0px;
+    }
+
+    .my-btn {
+        width: 90px;
+        height: 27px;
+        font-size: 12px;
+        line-height: 21px;
+    }
+
+    .fa-35 {
+        font-size: 14px !important;
+    }
+
+    .btn-para {
+        margin: 20px 0 25px;
+    }
+
+    .btn-para p {
+        margin-bottom: 20px !important;
+    }
+
+    .fa-70 {
+        font-size: 23px !important;
+    }
+
+    .lh-80 {
+        line-height: 25px;
+    }
+
+    .sec1 .bg-blue {
+        top: 65px;
+    }
+
+    .fa-20 {
+        font-size: 10px !important;
+    }
+
+    .lh-30 {
+        line-height: 14px;
+    }
+
+    .sec2-content {
+        padding: 100px 0 45px;
+    }
+
+    .sec2-content p {
+        max-width: 100%;
+    }
+
+    .mission-heading {
+        padding: 40px 0 30px;
+        max-width: 60%;
+    }
+
+    .container-1405 {
+        max-width: 80%;
+    }
+
+    .my-card {
+        padding: 15px;
+    }
+
+    .my-inner p {
+        margin: 8px 0 !important;
+    }
+
+    .lh-20 {
+        line-height: 15px;
+    }
+
+    .lh-37 {
+        line-height: 20px;
+    }
+
+    .my-card .my-btn {
+        height: 23px;
+        width: 80px;
+        font-size: 10px;
+    }
+
+    .blue-line:after {
+        width: 40px;
+    }
+
+    .green-line:before {
+        width: 40px;
+    }
+
+    .f-content input::placeholder,
+    .f-content .form-control::placeholder {
+        font-size: 10px;
+    }
+
+    .form-sec {
+        padding: 0;
+    }
+
+    .f-heading {
+        padding: 15px 0 0;
+    }
+
+    .f-content button {
+        margin: 20px 0;
+    }
+
+    .f-content input,
+    .f-content .form-control {
+        padding: 1px 5px;
+    }
+
+    .sec5 {
+        padding: 20px 0 80px;
+    }
+
+    .success-heading {
+        margin-bottom: 20px;
+    }
+
+    .story {
+        height: 100px;
+    }
+
+    .fa-25 {
+        font-size: 11px !important;
+    }
+
+    .story-flex a {
+        font-size: 10px;
+    }
+
+    .story-flex {
+        padding: 7px 5px;
+    }
+
+    .img-story button {
+        width: 40px;
+        height: 40px;
+    }
+
+    .img-story i {
+        font-size: 12px;
+    }
+
+    footer {
+        padding-top: 60px;
+    }
+
+    .fa-18 {
+        font-size: 10px !important;
+    }
+
+    .contact-us {
+        padding: 30px 0 30px;
+    }
+
+    .contact-detail {
+        padding-bottom: 40px;
+        justify-content: space-between;
+    }
+
+    .contact-item>span {
+        width: 12px;
+        height: 12px;
+        margin-right: 4px;
+    }
+
+    .contact-item .green-box {
+        width: 5px;
+        height: 5px;
+    }
+
+    .social-icons a {
+        padding: 2px 2px;
+    }
+
+    .fa-63 {
+        font-size: 23px !important;
+    }
+
+    .get-touch {
+        width: 115px;
+        height: 115px;
+        padding-top: 32px;
+        margin: 0 80px;
+        line-height: 24px;
+    }
+
+    .sec3 {
+        padding-bottom: 40px;
+    }
+}
+
+@media (max-width:575px) {
+    .my-head .navbar-brand {
+        width: 100px;
+    }
+
+    .my-btn {
+        width: 60px;
+        height: 20px;
+        font-size: 10px;
+        line-height: 14px;
+        padding: 2px 2px;
+    }
+
+    .my-menubar {
+        padding: 20px 0px;
+    }
+
+    .main-design {
+        padding-top: 65px;
+    }
+
+    .sec1 .bg-blue {
+        top: 15px;
+    }
+
+    .img-content {
+        margin: 40px 10px;
+        flex-wrap: wrap;
+    }
+
+    .fa-55 {
+        font-size: 19px !important;
+    }
+
+    .fa-35 {
+        font-size: 11px !important;
+    }
+
+    .btn-para p {
+        max-width: 80%;
+        margin: 0 auto;
+    }
+
+    .growth .hr-styling {
+        background: linear-gradient(270deg, transparent, #62eacd, transparent);
+    }
+
+    .hr-styling {
+        background: linear-gradient(270deg, transparent, #62eacd, transparent);
+    }
+
+    .fa-70 {
+        font-size: 16px !important;
+    }
+
+    .sec2-content {
+        padding: 40px 0 0px;
+        margin: 0 auto;
+        text-align: center;
+        max-width: 80%;
+    }
+
+    .lh-80 {
+        line-height: 18px;
+    }
+
+    .fa-20 {
+        font-size: 10px !important;
+    }
+
+    .bg-img {
+        padding-bottom: 10px;
+    }
+
+    .sec3 {
+        margin-top: -20px;
+        padding-bottom: 20px;
+    }
+
+    .my-inner {
+        text-align: center;
+        max-width: 90%;
+        margin: 0 auto;
+        align-items: center;
+    }
+
+    .green-line:before {
+        display: none;
+    }
+
+    .blue-line:after {
+        display: none;
+    }
+
+    .green-before:before,
+    .blue-before:before {
+        display: none;
+    }
+
+    .f-heading {
+        padding: 0;
+    }
+
+    .f-content input,
+    .f-content .form-control {
+        margin: 10px 0;
+        padding: 3px 10px;
+    }
+
+    .f-content button {
+        margin: 10px 0;
+    }
+
+    .f-content-row>* {
+        padding: 0 5px;
+    }
+
+    .f-heading h1 {
+        margin: 0;
+    }
+
+    .sec5 {
+        padding: 0px;
+    }
+
+    .story {
+        height: 120px;
+        margin-bottom: 50px;
+    }
+
+    .lh-37 {
+        line-height: 15px;
+    }
+
+    .lh-30 {
+        line-height: 13px;
+    }
+
+    .lh-67 {
+        line-height: 50px;
+    }
+
+    .success-heading {
+        margin-bottom: 0px;
+    }
+
+    .success-heading h1 {
+        margin: 10px 0;
+    }
+
+    .success-row>* {
+        padding: 0;
+    }
+
+    .contact-detail {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 20px;
+    }
+
+    .contact-row {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .social-icons {
+        text-align: center;
+    }
+
+    .footer-row {
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+
+    .get-touch {
+        margin: 0 auto;
+    }
+
+    .contact-item>span {
+        display: none;
+    }
+
+    .fa-63 {
+        font-size: 16px !important;
+    }
+
+    .get-touch {
+        margin: 0 auto;
+        width: 75px;
+        height: 75px;
+        padding-top: 19px;
+        line-height: 16px;
+    }
+
+    .get-after:after {
+        display: none;
+    }
+
+    footer {
+        padding-top: 30px;
+    }
+
+    .contact-us {
+        padding: 15px 0;
+    }
+
+    .f-content-row>* {
+        flex: 0 0 100%;
+    }
+
+    .my-inner h5 {
+        font-size: 15px !important;
+        line-height: 18px;
+    }
+
+}
